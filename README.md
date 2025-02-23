@@ -22,9 +22,9 @@ En screener för aktier och optioner som analyserar både amerikanska (S&P 500, 
 ## Installation
 
 1. Installera beroenden:
-
+```
 pip install -r requirements.txt
-
+```
 ## Användning
 
 1. Konfigurera screeningparametrar i `screener_config.json`
