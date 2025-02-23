@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+scipy
+requests
+selenium
+beautifulsoup4
+lxml
+webdriver_manager

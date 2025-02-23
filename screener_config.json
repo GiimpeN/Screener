@@ -1,0 +1,22 @@
+{
+    "MIN_PRICE": 1.0,
+    "MIN_DTE": 20,
+    "MAX_DTE": 45,
+    "TARGET_DTE": 30,
+    "DELTA_LOWER": -0.4,
+    "DELTA_UPPER": -0.25,
+    "TARGET_DELTA": -0.3,
+    "MIN_LIQ_SCORE": 1.0,
+    "MIN_OPEN_INTEREST": 50,
+    "MAX_BID_ASK_SPREAD_RATIO": 0.05,
+    "MIN_EARNINGS_GROWTH": 0.05,
+    "MAX_DEBT_TO_EQUITY": 0.8,
+    "MIN_ROE": 15.0,
+    "ACCOUNT_SIZE": 50000,
+    "RISK_PER_TRADE_PERCENT": 1.0,
+    "SCAN_OMX": true,
+    "SCAN_US": true,
+    "MAX_WORKERS": 10,
+    "REQUEST_DELAY": 10,
+    "MAX_TICKERS_TO_PROCESS": 1000
+}
